@@ -1,2 +1,2 @@
 # DE
-related to all Data Engineering porjects
+related to all Data Engineering projects
